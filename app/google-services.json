@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69842081506",
+    "firebase_url": "https://todowfirebase.firebaseio.com",
+    "project_id": "todowfirebase",
+    "storage_bucket": "todowfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69842081506:android:8e748932da8b7e1c",
+        "android_client_info": {
+          "package_name": "com.ddinc.todowfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69842081506-rkp3tofqhpnpeec5anb9aihlnl7beguf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ddinc.todowfirebase",
+            "certificate_hash": "850bbccf1df16ec481a2e38698282f2c00c56251"
+          }
+        },
+        {
+          "client_id": "69842081506-v220rcoqbr4v0pqg13tevl5rd5bg77f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjsQIz6RyilROS2NicRmkkv0KY5KVZytQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69842081506-v220rcoqbr4v0pqg13tevl5rd5bg77f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
